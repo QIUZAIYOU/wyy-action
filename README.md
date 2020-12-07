@@ -1,4 +1,4 @@
-# 网易云音乐自动签到 + 刷歌
+# 网易云音乐自动签到 + 刷歌 ![签到](https://github.com/QIUZAIYOU/wyy-action/workflows/%E7%AD%BE%E5%88%B0/badge.svg)
 > 网易云音乐自动登录签到 + 刷歌 310 首
 
 ## Github Actions 部署指南
